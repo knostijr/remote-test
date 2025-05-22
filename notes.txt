@@ -1,4 +1,4 @@
-git init => für den Start
+git init => für den Start // for 
 
 git status => Statusabfrage
 
