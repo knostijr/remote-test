@@ -7,7 +7,7 @@ git add <file> => änderung im staging registriert
 git commit -m "msg" => änderung werden im repository gespeichert
 
 
-/*Remote erstellen*/
+/*lokal pushen*/
 
 git remote add origin https://github.com/knostijr/<repositoryName>
 
@@ -15,4 +15,3 @@ git branch -M <branchname>
 
 git push -u origin <branchname>
 
-nach dem pushen mit dem erstellten Token einloggen
