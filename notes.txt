@@ -1,7 +1,7 @@
-git init für den Start
+git init => für den Start
 
 git status => Statusabfrage
 
-git add filename => änderung im staging registriert
+git add <file> => änderung im staging registriert
 
 git commit -m "msg" => änderung werden im repository gespeichert
