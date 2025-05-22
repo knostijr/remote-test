@@ -23,3 +23,8 @@ git reset --soft HEAD~1 --> commits werden gelöscht, inhalt wieder in der stagi
 git reset --mixed HEAD~1 --> commits werden gelöscht, inhalt zurück ins WD
 
 git reset --hard HEAD~1 --> commits werden gelöscht
+
+
+/* wenn gepusht dann mit revert */
+
+git revert <Commit ID> ==> rechtsklick auf den push und commit id kopieren
