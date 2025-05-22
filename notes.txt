@@ -5,3 +5,9 @@ git status => Statusabfrage
 git add <file> => änderung im staging registriert
 
 git commit -m "msg" => änderung werden im repository gespeichert
+
+git remote add origin https://github.com/knostijr/file
+
+git branch -M main
+
+git push -u origin main
